@@ -1,6 +1,6 @@
 #!/usr/bin/env python3.9
 
-""""""
+"""Generate Slicemaps of 4d Menger Sponges"""
 
 import sys
 import math
